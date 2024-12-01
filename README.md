@@ -15,11 +15,11 @@ NodeJS kerak bo'lsa:
 
 Kerakli paketlar o'rnatib bo'lingandan keyin, quyidagi qadamlarni bajarib, loyihani o'z tizimingizda ishga tushirishingiz mumkin: Repositoryni klonlash:
 
-    git clone https://github.com/XAYTIMETOV/Family-Tree
+    git clone https://github.com/jahongir2121/savol-javob
 
 Loyihaning papkasiga o'tish:
 
-    cd Family-Tree
+    cd savol-javob
 
 Composer o'rnatish:
     
@@ -34,7 +34,7 @@ env faylni yarating:
     DB_CONNECTION=mysql
     DB_HOST=127.0.0.1
     DB_PORT=3306
-    DB_DATABASE=family_tree
+    DB_DATABASE=savol_javob
     DB_USERNAME=root
     DB_PASSWORD=
 
@@ -51,8 +51,8 @@ Serverni ishga tushirish:
     php artisan serve
 
 
-<!-- OVERVIEW -->
-## Overview
+<!-- kornish-->
+## korinish
 ![Screenshot (1177)](https://github.com/izzanka/luora/assets/59280562/76bcdc32-ca53-4943-b5a0-43dd37237381)
 ![Screenshot (1178)](https://github.com/izzanka/luora/assets/59280562/e035ac71-776d-4978-b932-300ae00a9175)
 ![Screenshot (1179)](https://github.com/izzanka/luora/assets/59280562/f4cb8fa7-836d-401a-9027-566a945d86ea)
